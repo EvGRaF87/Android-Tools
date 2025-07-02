@@ -25,7 +25,7 @@ echo.
 echo           ________________________________________________________________
 echo           _____________________________     ______________________________
 echo                                          *
-echo            [1] Uninstall System App       #   [2] Uninstall No System App
+echo            [1] Uninstall System App      #   [2] Uninstall No System App
 echo           _____________________________  *  ______________________________
 echo                                          *
 echo            [3] List of System App        #   [4] List of No System App
